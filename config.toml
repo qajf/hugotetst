@@ -1,3 +1,9 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
+baseURL = "http://qajf.github.io/blog"
+languageCode = "ja"
 title = "My New Hugo Site"
+theme = "blackburn"
+
+canonifyurls = true
+paginate = 10
+publishDir="docs"
+
